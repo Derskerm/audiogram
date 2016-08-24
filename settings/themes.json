@@ -91,5 +91,15 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+  },
+  "Background image with top right text": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "custom.jpg",
+    "foregroundColor": "#fc0",
+    "waveBottom": 660,
+    "waveTop": 320
   }
 }
