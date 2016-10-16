@@ -161,7 +161,7 @@
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080,
-    "backgroundImage": "lgbt-history-month-banner-new.png",
+    "backgroundImage": "lgbt-history-month-banner-new-2.png",
     "waveColor": "#ffffff"
   },
   "LGBT 3 - green": {
@@ -179,7 +179,7 @@
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080,
-    "backgroundImage": "lgbt-history-month-banner-new.png",
+    "backgroundImage": "lgbt-history-month-banner-new-2.png",
     "waveColor": "#41AD49"
   },
   "LGBT 3 - grey": {
@@ -197,7 +197,7 @@
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080,
-    "backgroundImage": "lgbt-history-month-banner-new.png",
+    "backgroundImage": "lgbt-history-month-banner-new-2.png",
     "waveColor": "#2A2A2A"
   }
 }
