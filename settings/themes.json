@@ -253,5 +253,23 @@
     "captionRight": 1080,
     "backgroundImage": "lgbt-history-month-banner-new-3.png",
     "waveColor": "#ffffff"
+  },
+  "Sounds of the game - white": {
+    "width": 1280,
+    "height": 720,
+    "framesPerSecond": 20,
+    "maxDuration": 300,
+    "samplesPerFrame": 128,
+    "pattern": "wave",
+    "waveTop": 374,
+    "waveBottom": 684,
+    "captionTop": 470,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionLeft": 200,
+    "captionRight": 1080,
+    "backgroundImage": "sounds-of-the-game-1.png",
+    "waveColor": "#ffffff"
   }
 }
